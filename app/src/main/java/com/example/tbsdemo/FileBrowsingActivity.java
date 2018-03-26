@@ -14,6 +14,7 @@ import java.io.File;
 public class FileBrowsingActivity extends AppCompatActivity{
 
     SuperFileLayout mSuperFileView;
+    //需要查看的 文档所在目录
     String filePath = "/storage/emulated/0/大王/阿里巴巴Android开发手册.pdf";
 
 
